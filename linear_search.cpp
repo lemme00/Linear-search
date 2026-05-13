@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    long keynumber = 999;
+    long keynumber = 6767;
     int phonenumbers[3];
     int i = 0;
     // filling numbers
@@ -22,7 +22,7 @@ int main()
     {
         if (phonenumbers[i] == keynumber)
         {
-            cout << "Esther number's found" << endl;
+            cout << "Big yahu's number's found" << endl;
             break;
         }
     }
